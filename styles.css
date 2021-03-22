@@ -1,0 +1,23 @@
+html {
+    background-color: skyblue;
+    margin: 10px 50px;
+}
+
+h1 {
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Lato', sans-serif;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+    color: black;
+    height: 2px;
+    background-color: black;
+}
